@@ -1,5 +1,5 @@
 <div align="center">
-<img src="header.png" align="center" width="1280" height="350"/>
+<img src="Header.png" align="center" width="1280" height="350"/>
 </div>
 
 <h1 align="center">BitzStudio</h1>
