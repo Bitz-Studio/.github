@@ -16,7 +16,7 @@ We work with clients all over the world (including the United States, South Afri
 
 - 📝 Design Portfolio [Behance](https://www.behance.net/bitzstudiolhr)
 
-- 👨‍💻 Portfolio [BitzStudio/](https://bitzstudio.com/)
+- 👨‍💻 Portfolio [BitzStudio/](https://bitzstudio.com)
 
 - 📫 Reach me out **info@bitzstudio.com**
 
